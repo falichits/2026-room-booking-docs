@@ -118,7 +118,7 @@ DELETE /api/RoomBookings/{id}
 # 🖥 Screenshot
 
 Screenshot:
-![Login Page](https://raw.githubusercontent.com/falichits/2026-room-booking-docs/main/images/login.png)
+![Login Screenshot](https://raw.githubusercontent.com/falichits/2026-room-booking-docs/main/images/login.png)
 
 Contoh:
 
