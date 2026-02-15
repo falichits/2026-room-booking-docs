@@ -1,0 +1,1 @@
+Frontend → Backend → Database → Mobile
