@@ -117,14 +117,13 @@ DELETE /api/RoomBookings/{id}
 
 # 🖥 Screenshot
 
-Tambahkan nanti screenshot:
+Screenshot:
+https://github.com/falichits/2026-room-booking-docs/blob/main/images/login.png
 
 Contoh:
 
 ```
 docs/images/login.png
-docs/images/dashboard.png
-docs/images/mobile.png
 ```
 
 ---
